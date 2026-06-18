@@ -160,7 +160,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Om
+Om kale-patil
 
 Artificial Intelligence & Data Science Student
 
