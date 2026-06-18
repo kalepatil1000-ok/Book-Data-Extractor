@@ -36,7 +36,7 @@ This project helped me practice:
 
 ## 📂 Project Structure
 
-```text
+text
 BOOK DATA EXTRACTOR/
 │
 ├── htmls/
@@ -46,7 +46,8 @@ BOOK DATA EXTRACTOR/
 ├── Book Data Extractor.py
 ├── Webscraping.py
 └── README.md
-```
+
+
 
 ---
 
@@ -54,7 +55,8 @@ BOOK DATA EXTRACTOR/
 
 ### Project Folder Structure
 
-(Add your screenshot here)
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/24f66072-9f12-4151-b1f6-d01c63ad7a71" />
+
 
 ### Sample Output
 
