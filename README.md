@@ -35,7 +35,7 @@ This project helped me practice:
 ---
 
 ## 📂 Project Structure
-
+```
 text
 BOOK DATA EXTRACTOR/
 │
@@ -46,6 +46,7 @@ BOOK DATA EXTRACTOR/
 ├── Book Data Extractor.py
 ├── Webscraping.py
 └── README.md
+```
 
 
 
